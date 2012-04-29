@@ -1,0 +1,8 @@
+java
+
+main {
+	while(1)
+		input "can you hear me", x
+		print x
+
+}
